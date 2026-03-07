@@ -1,4 +1,4 @@
-<h1><a href="https://www.github.com/Daniel-Carbajal/se333-assignment5">Assignment 5 Part 1</a> Write-Up</h1>
+<h1><a href="https://www.github.com/Daniel-Carbajal/se333-assignment5-Part-1">Assignment 5 Part 1</a> Write-Up</h1>
 <h4>Author: Daniel Carbajal</h4>
 <h4>Course: SE333 Software Testing and Quality Assurance</h4>
 
